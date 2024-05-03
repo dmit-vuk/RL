@@ -6,3 +6,4 @@ There are the following tasks:
 * __Q-learning SARSA__: Tabular RL. Implementation Q-learning, SARSA and Expected Value SARSA for CartPole-v0, Taxi-v3 and CliffWalking-v0 envs
 * __DQN__: Deep Q-Networks. Implementation Dueling DQN with target networks for Atari game (ALE/Breakout-v5 env)
 * __Actor Critic__: Advantage Actor Critic for Atari game for SpaceInvadersNoFrameskip-v4 env
+* __Continuous Control__: Implementation TD3 and SAC for Ant-v4 env
